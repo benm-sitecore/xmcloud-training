@@ -1,0 +1,101 @@
+﻿---
+ID: "ee236657-4f2c-4e36-89f7-df9fba278b2d"
+Parent: "0090bc90-0fa2-4344-a460-5b8ff3c85ac7"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Skate Park/Skate Park/Presentation/Partial Designs/Footer
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{ED365159-EAD4-48F4-B5FF-A3C9FE0AFC65}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0B91104D-12B9-49B9-809C-C24F1C52F21D}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bD3B77527-EABA-441F-9373-9714E879D470%7d%7c%7b9CDED4CA-2D5F-41B1-ABFC-EC231327864D%7d%7c%7bAB0EA50D-72D5-4591-9F7E-2CA76F9357B6%7d%7c%7b43C4F10E-C5FC-44F1-B974-3109D3D0000D%7d%7c%7b100BA766-7EA4-4983-A64E-DC42FA5BFEDB%7d%7c%7b409324CF-B9E3-4032-B9F6-4BF009F13796%7d%7c%7bC7C4113C-92EB-4731-96FD-4A6AED48546B%7d%7c%7b7FB9BC90-61D5-4937-81BE-03A904D1E262%7d%7c%7bF2A72620-8E42-470E-9BC9-CB1F95C2156D%7d%7c%7b8319ECAC-3435-419A-A437-313759EFFD86%7d%7c%7b31098987-15DA-455D-8A4E-FA281E57E2BE%7d%7c%7b5C6A9640-82AF-4805-A67E-CC63C17EAE37%7d%7c%7b9EF651E3-5D7B-488E-BCF8-C4B2820967A3%7d%7c%7b88F10371-5135-4EE0-A3CC-6E527E1C936A%7d%7c%7bFF247D86-C8AF-4CDE-9865-8C45E7C40407%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{557114A0-3EF8-463C-96FF-DC0F4C3C9C3F}"
+          p:after="r[@uid='{0B91104D-12B9-49B9-809C-C24F1C52F21D}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b92157D5E-9C11-4016-B205-1C459799E8DF%7d&amp;FieldNames=%7b641A3575-F719-47D9-9BC7-E58D211D1739%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{0B592A1F-C64E-4AA1-A09C-F850A8AB5460}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b92157D5E-9C11-4016-B205-1C459799E8DF%7d&amp;FieldNames=%7b641A3575-F719-47D9-9BC7-E58D211D1739%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231207T010726Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d4dedf5-db3f-4a45-9e4d-7794359f5821"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T015906Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231207T010726Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4769afc-98af-4c40-81a1-54e77a472325"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T015904Z

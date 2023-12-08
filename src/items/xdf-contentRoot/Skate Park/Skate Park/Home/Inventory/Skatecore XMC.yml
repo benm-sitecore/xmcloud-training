@@ -1,0 +1,37 @@
+﻿---
+ID: "6991651c-20cc-4b0f-a850-8a2a82eefe34"
+Parent: "555f5eb6-eb61-4a53-9bb4-a0fbb26a1b6a"
+Template: "0892055f-e3af-431d-a7c9-ccf2e7078954"
+Path: /sitecore/content/Skate Park/Skate Park/Home/Inventory/Skatecore XMC
+SharedFields:
+- ID: "4195af2b-806b-4797-9614-8aefd6be0939"
+  Hint: SKU
+  Value: "{6991651C-20CC-4B0F-A850-8A2A82EEFE34}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{6B35BA55-D1D2-4F84-87BD-C88731AF128F}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231207T041717Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Skatecore XMC
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2aaac513-f45f-412e-88c2-5558cb5442ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T041717Z
+    - ID: "fb133dc7-a93b-43b3-b050-778e68baf1f3"
+      Hint: Title
+      Value: Skatecore XMC

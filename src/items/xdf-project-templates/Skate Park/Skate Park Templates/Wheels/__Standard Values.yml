@@ -1,0 +1,26 @@
+﻿---
+ID: "90b52490-ce7e-47af-b080-8256890aab63"
+Parent: "52593aa8-9fc7-4656-8c68-3e60cd66e35e"
+Template: "52593aa8-9fc7-4656-8c68-3e60cd66e35e"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/Wheels/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231207T040737Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f9c1e36-9127-49d4-ace5-1d83728c83f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "c65012c7-7351-42e6-bb29-e85d9244e132"
+      Hint: Material
+      Value: Rubber
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T041042Z

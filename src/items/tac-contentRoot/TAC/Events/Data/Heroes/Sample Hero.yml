@@ -1,0 +1,48 @@
+﻿---
+ID: "5600fc03-247a-46b7-809b-1539fd9a893b"
+Parent: "703db7b0-7081-4d7c-8138-cc1a5ed2891f"
+Template: "3aa0b664-b1fe-46fb-86b3-e1aee686064a"
+Path: /sitecore/content/TAC/Events/Data/Heroes/Sample Hero
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231208T045036Z
+    - ID: "49bdc03d-9d27-47a8-a7a7-4c83bce4e0c0"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2DE35D35-AC7F-4304-8A1C-3257475C5BB3}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "6742842b-851d-4f33-87be-397e22e7f89b"
+      Hint: Image
+      Value: |
+        <image mediaid="{3AE71ED9-D1D3-4488-B6FB-93B6D52B5B27}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b318b2c-6c2d-4d40-8a5a-d0394b7f3d6a"
+    - ID: "96c88536-298a-40b6-a804-63c591ef720a"
+      Hint: Body
+      Value: Enjoy Mount Everest Event with the Adventure Company.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231208T045215Z
+    - ID: "e1e2fd77-48f3-414a-adfa-e608a06f6016"
+      Hint: Title
+      Value: Exciting Mount Everest Event
+    - ID: "f1b20a72-b3ed-46a2-88ff-8406ec3e72fb"
+      Hint: Summary
+      Value: "Join our exciting Climbing Events!"

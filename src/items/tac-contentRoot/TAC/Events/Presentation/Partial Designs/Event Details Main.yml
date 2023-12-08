@@ -1,0 +1,80 @@
+﻿---
+ID: "39c22d2e-097d-402f-a70e-e5793ce44cfe"
+Parent: "df1b93bb-6414-4dd8-bc3c-a1019d683c30"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/TAC/Events/Presentation/Partial Designs/Event Details Main
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "event-details-main"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{169C5F38-18FE-4E5A-96E6-D52EC63F792D}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A0BAE529-A66C-4E18-86B6-D91F6DE334CD}"
+              p:before="*"
+              s:id="{322F6926-541C-4DC8-AE0C-C48E7DB5D5A8}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-main/container-1/column-2-2" />
+            <r
+              uid="{37A37ADC-0749-4356-841C-32FEB9A323CD}"
+              p:after="r[@uid='{A0BAE529-A66C-4E18-86B6-D91F6DE334CD}']"
+              s:id="{70101A0D-1F42-4B61-95D1-7FDFE7070312}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-main/container-1/column-2-2" />
+            <r
+              uid="{46A6E391-DF5E-4642-B3AB-43EB07061B97}"
+              p:after="r[@uid='{37A37ADC-0749-4356-841C-32FEB9A323CD}']"
+              s:ds=""
+              s:id="{7B18F008-F9BA-4B59-B242-E3C956CFD4D0}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/sxa-main/container-1" />
+            <r
+              uid="{56A60A5A-2E7D-4EF2-B5E7-C7F2D496E274}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B9B4A68D5-57DC-4137-B953-621B38EECC68%7D&amp;ColumnWidth2=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B436C37A1-CC36-4176-97C0-F1C48104E601%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-main/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231208T011546Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "76a92454-c8be-479b-b260-26aebced5a1a"
+      Hint: Base Partial Design
+      Value: "{82A743E4-4DDE-4982-AFA8-FDFECD5F85CC}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6798c1d2-0c2e-4303-be25-d18846f5b845"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231208T044204Z

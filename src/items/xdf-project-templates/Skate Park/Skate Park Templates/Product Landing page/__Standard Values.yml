@@ -1,0 +1,30 @@
+﻿---
+ID: "3f665172-17bf-4efe-8412-ef5466212fbf"
+Parent: "0a45f915-514c-4bee-a216-c0c61959d1a5"
+Template: "0a45f915-514c-4bee-a216-c0c61959d1a5"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/Product Landing page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {0892055F-E3AF-431D-A7C9-CCF2E7078954}
+    {6A7101BA-A7F9-4583-9BBA-FC21926D8DCC}
+    {52593AA8-9FC7-4656-8C68-3E60CD66E35E}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231207T041315Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de76db1c-668d-48ae-923c-b431d7dd41bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T041431Z

@@ -1,0 +1,31 @@
+﻿---
+ID: "b48a66e0-b9d8-464b-bc80-9240d54d7ae5"
+Parent: "689a960c-3649-4ce6-a8e7-ec2a15838e1e"
+Template: "689a960c-3649-4ce6-a8e7-ec2a15838e1e"
+Path: /sitecore/templates/Feature/MyModule/EventPromo/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231208T051633Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35bf8d8f-855c-4e4a-a6a0-26caf251aaaa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231208T051633Z

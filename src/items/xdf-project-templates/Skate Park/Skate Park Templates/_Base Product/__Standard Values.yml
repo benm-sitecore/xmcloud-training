@@ -1,0 +1,46 @@
+﻿---
+ID: "64086228-0841-4e85-af1b-c8e12f7a6d17"
+Parent: "839c05c3-2d5b-4165-a716-d371e3fc7ee5"
+Template: "839c05c3-2d5b-4165-a716-d371e3fc7ee5"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/_Base Product/__Standard Values
+SharedFields:
+- ID: "4195af2b-806b-4797-9614-8aefd6be0939"
+  Hint: SKU
+  Value: $id
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{FF19E046-2E34-43F1-ACE5-3ED3F7A6F7B3}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "56612fd8-aedb-47e5-93dd-9a756f9a6abb"
+    Hint: Price
+    Value: $100
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "093ff511-5719-48f7-9b1f-72d631050506"
+      Hint: Highlights
+      Value: |
+        <span style="color: #000000; background-color: #f0f0f0;">Whether you&rsquo;re a beginner or a pro, this will work well for you.</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231207T040237Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4d3e855-cb72-4633-9e5e-3ca985a94307"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T065548Z

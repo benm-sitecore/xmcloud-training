@@ -1,0 +1,34 @@
+﻿---
+ID: "6f9d9261-3eb5-40d0-b4a3-e5d5294b9021"
+Parent: "0892055f-e3af-431d-a7c9-ccf2e7078954"
+Template: "0892055f-e3af-431d-a7c9-ccf2e7078954"
+Path: /sitecore/templates/Project/Skate Park/Skate Park Templates/Skateboard/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231207T040042Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6fe9211c-f81c-498a-afec-b4992e7fa19f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T040059Z
+    - ID: "ef5d8ce5-bfae-49bf-ad8e-7e13052a32c0"
+      Hint: Material
+      Value: Bamboo

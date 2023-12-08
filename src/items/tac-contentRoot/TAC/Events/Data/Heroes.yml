@@ -1,0 +1,23 @@
+﻿---
+ID: "703db7b0-7081-4d7c-8138-cc1a5ed2891f"
+Parent: "59626fb4-02ce-4c33-ae7d-4497036ed353"
+Template: "867c7d78-0434-49e7-89b3-bb20e95bc2f3"
+Path: /sitecore/content/TAC/Events/Data/Heroes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231208T045020Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3097e0ff-8f01-4b3a-8d5f-db0d59b8f5b0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bemartin@deloitte.com.au
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231208T045020Z
